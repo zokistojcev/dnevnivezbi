@@ -1,0 +1,15 @@
+[  
+     {
+        "name": "ime na recept",
+        "sorce": "poteklo na recept",
+        "listaNaSostojki": ["ime na recept", "brasno"]
+    },
+    {
+        "name": "burek",
+        "sorce": "albanija",
+        "listaNaSostojki": ["meso", "brasno"]
+    }
+
+]
+  
+   
